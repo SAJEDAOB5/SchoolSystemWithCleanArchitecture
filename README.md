@@ -1,6 +1,6 @@
 
 <h1> School Management System</h1>
-<h3>Overview:</h3>
+<h1>Overview:</h1>
 <p>The School Management System is a robust and scalable application designed to streamline and optimize various aspects of educational institutions. Leveraging the principles of Clean Architecture, the project maintains a modular and maintainable codebase, ensuring flexibility and ease of future development.</p>
 
 <h3>Key Features:</h3>
