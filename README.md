@@ -3,7 +3,7 @@
 <h1>Overview:</h1>
 <p>The School Management System is a robust and scalable application designed to streamline and optimize various aspects of educational institutions. Leveraging the principles of Clean Architecture, the project maintains a modular and maintainable codebase, ensuring flexibility and ease of future development.</p>
 
-<h3>Key Features:</h3>
+<h2>Key Features:</h2>
 <h2>Clean Architecture:</h2>
 
 <p>The project is built upon the Clean Architecture principles, separating concerns into distinct layers to enhance maintainability and testability.</p>
@@ -28,17 +28,23 @@
 <h2>Technology Stack:</h2>
 <h2>Backend:</h2>
 
+<ul>
+  <li> C#</li>
+  <li>ASP.NET Core</li>
+  <li>Entity Framework Core</li>
+  <li>
+    <ul> Design Patterns:
+      <li>Clean Architecture</li>
+  <li>CQRS</li>
+  <li>
+Dependency Injection</li>
+      <li>Generic Repository</li>
+    </ul>
+  
+  </li>
+<li>Custom Routing</li>
+<li>Inline Middleware</li>
 
-C#
-ASP.NET Core
-Entity Framework Core
-Design Patterns:
 
-Clean Architecture
-CQRS
-Dependency Injection
-Generic Repository
-Middleware and Routing:
+</ul>
 
-Custom Routing
-Inline Middleware
